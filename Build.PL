@@ -9,7 +9,7 @@ use MyBuilder;
 my $builder = MyBuilder->new(
   module_name => 'Net::CIDR::Set',
   license     => 'perl',
-  dist_author => 'Andy Armstrong <andy.armstrong@messagesystems.com>',
+  dist_author => 'Andy Armstrong <andy@hexten.net>',
   dist_version_from => 'lib/Net/CIDR/Set.pm',
   requires          => { 'Test::More' => 0 },
   add_to_cleanup    => ['Net-CIDR-Set-*'],

@@ -780,7 +780,7 @@ __END__
 
 =head1 AUTHOR
 
-Andy Armstrong  C<< <andy.armstrong@messagesystems.com> >>
+Andy Armstrong  C<< <andy@hexten.net> >>
 
 =head1 CREDITS
 

@@ -4,7 +4,7 @@ version: 0.13
 
 
 author:
-  - 'Andy Armstrong <andy.armstrong@messagesystems.com>'
+  - 'Andy Armstrong <andy@hexten.net>'
 abstract: Manipulate sets of IP addresses
 license: perl
 resources:
